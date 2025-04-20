@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "com.superbase",
     "name": "expo-user-management",
     "slug": "expo-user-management",
     "version": "1.0.0",
